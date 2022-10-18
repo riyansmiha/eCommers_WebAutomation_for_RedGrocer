@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sajib Riyan",
+    "phone": "01905223684",
+    "password": "sajib123",
+    "confirm_password": "sajib123"
+  },
+
+  {
+    "name": "Sajib Riyan",
+    "phone": "01905223614",
+    "password": "sajib124",
+    "confirm_password": "sajib123"
+  }
+]

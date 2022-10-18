@@ -1,0 +1,1 @@
+{"uuid":"2570c805-5745-47a1-bcbb-347a01909138","name":"BaseURL.Setup.ScreenShot","children":["77028fa0-c253-442d-afa5-52f61eb6fdcf"],"description":"","befores":[],"afters":[{"name":"ScreenShot","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1666021436865,"stop":1666021436865}],"start":1666021436864,"stop":1666021436866}
